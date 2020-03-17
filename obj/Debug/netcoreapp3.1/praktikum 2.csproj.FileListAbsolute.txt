@@ -1,0 +1,11 @@
+/home/takupasmeong/Documents/Pemrograman semester 2/praktikum 2/bin/Debug/netcoreapp3.1/praktikum 2
+/home/takupasmeong/Documents/Pemrograman semester 2/praktikum 2/bin/Debug/netcoreapp3.1/praktikum 2.deps.json
+/home/takupasmeong/Documents/Pemrograman semester 2/praktikum 2/bin/Debug/netcoreapp3.1/praktikum 2.runtimeconfig.json
+/home/takupasmeong/Documents/Pemrograman semester 2/praktikum 2/bin/Debug/netcoreapp3.1/praktikum 2.runtimeconfig.dev.json
+/home/takupasmeong/Documents/Pemrograman semester 2/praktikum 2/bin/Debug/netcoreapp3.1/praktikum 2.dll
+/home/takupasmeong/Documents/Pemrograman semester 2/praktikum 2/bin/Debug/netcoreapp3.1/praktikum 2.pdb
+/home/takupasmeong/Documents/Pemrograman semester 2/praktikum 2/obj/Debug/netcoreapp3.1/praktikum 2.csprojAssemblyReference.cache
+/home/takupasmeong/Documents/Pemrograman semester 2/praktikum 2/obj/Debug/netcoreapp3.1/praktikum 2.AssemblyInfoInputs.cache
+/home/takupasmeong/Documents/Pemrograman semester 2/praktikum 2/obj/Debug/netcoreapp3.1/praktikum 2.AssemblyInfo.cs
+/home/takupasmeong/Documents/Pemrograman semester 2/praktikum 2/obj/Debug/netcoreapp3.1/praktikum 2.dll
+/home/takupasmeong/Documents/Pemrograman semester 2/praktikum 2/obj/Debug/netcoreapp3.1/praktikum 2.pdb
